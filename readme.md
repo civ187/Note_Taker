@@ -11,7 +11,7 @@
 [6. Submission](#Submission)   
 [7. Questions](#Questions)  
 ## Description:
-
+The Note Taker app let a user save, read, and delete notes via the browser.  This is a deployed application, meaning it can be accessed from anywhere as long as the user has a browser and an internet connection.
 
 ## Acceptance Criteria:
 - When the note taker app is opened, the user is presented with a landing page with a link to a notes page  
