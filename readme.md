@@ -51,7 +51,7 @@ To run this app locally do the following:
 
 ## Submission:
  [Github repository](https://github.com/civ187/Note_Taker)  
- [Deployed Application]()  
+ [Deployed Application](https://vclnotetaker.herokuapp.com/)  
 
 ## Questions:
  Here is a link to my github:  
