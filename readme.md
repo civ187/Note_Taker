@@ -30,7 +30,8 @@ THEN I am presented with emASDASDASpty fields to enter a new note title and the 
 
 
 ## Screen Shots
-![capture.png](public/assets/images/capture.png)
+![capture.png](public/assets/images/capture.png)  
+
 ![capture2.png](public/assets/images/capture2.png)
 
 ## Installation:
