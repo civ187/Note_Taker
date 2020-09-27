@@ -30,8 +30,8 @@ THEN I am presented with emASDASDASpty fields to enter a new note title and the 
 
 
 ## Screen Shots
-![Demo Image](public/assets/images/capture.png)
-![Demo Image](public/assets/images/capture2.png)
+![Demo_Image1](public/assets/images/Capture.PNG)
+![Demo_Image2](public/assets/images/Capture2.PNG)
 
 ## Installation:
 To run this app locally do the following:  
