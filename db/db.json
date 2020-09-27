@@ -1,1 +1,17 @@
-[{"title":"Test Title","text":"Test text", "id": "test_id"}]
+[
+  {
+    "title": "Go to the dentist",
+    "text": "The appointment is at 3 pm 10/8/2020\n",
+    "id": "c0eda8ab-a0dd-4735-ad33-2b2e3565d3bb"
+  },
+  {
+    "title": "Anniversary Date",
+    "text": "October 29th - Don't Forget",
+    "id": "0cdce57b-9e9d-4d44-baad-671283fd7332"
+  },
+  {
+    "title": "To do list 09/27/2020",
+    "text": "turn in this project\ngo on to the next project",
+    "id": "af00fb04-e981-4d60-bc5e-51cad3894353"
+  }
+]
