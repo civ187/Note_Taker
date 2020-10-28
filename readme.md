@@ -26,7 +26,7 @@ They are then presented with a page with existing notes listed in the left-hand 
 - When the user clicks on an existing note in the list in the left-hand column, that note then appears in the right-hand column  
 
 - When the user clicks on the write icon in the navigation at the top of the page  
-THEN I am presented with emASDASDASpty fields to enter a new note title and the note’s text in the right-hand column
+THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 
 ## Screen Shots
